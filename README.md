@@ -4,7 +4,9 @@ There will be several subfolders for different purposes as part of this reposito
 
 All the code is validated using our state of the art labs for which you can subscribe by going to this [link](https://labs.itversity.com/plans).
 
-You can also sign up for our courses by going to this [link](https://kaizen.itversity.com/product-categories/). We also have courses as part of Udemy, you can avail best prices by clicking on this [link](http://discuss.itversity.com/t/udemy-coupons-big-data-courses/17934)
+
+You can also sign up for our courses by going to this [link](https://kaizen.itversity.com/product-categories/). 
+We also have courses as part of Udemy, you can avail best prices by clicking on this [link](http://discuss.itversity.com/t/udemy-coupons-big-data-courses/17934)
 
 ## Using this repository
 
